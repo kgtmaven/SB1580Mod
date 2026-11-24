@@ -20,4 +20,5 @@ Go to the [Releases](https://github.com/kgtmaven/SB1580Mod/releases/tag/SB1580) 
 <br/>
 
 ## Notes
+ - To use the Dolby Digital Live and DTS Connect, 'Dolby Digital Live & DTS Connect Pack' Software and additional Activation is required. (KGAs something, do it your self.)
  - When installing the driver, you must boot in 'Disable driver signature enforcement' mode.
