@@ -1,0 +1,25 @@
+[InstallShield Silent]
+Version=v7.00
+File=Response File
+[File Transfer]
+OverwrittenReadOnly=NoToAll
+[{5C8A965E-F5D8-48A0-81C9-3B98CBFEFA11}-DlgOrder]
+Dlg0={5C8A965E-F5D8-48A0-81C9-3B98CBFEFA11}-LICENSE_DLG-0
+Count=4
+Dlg1={5C8A965E-F5D8-48A0-81C9-3B98CBFEFA11}-SetupCustomSdOptionsButtons-0
+Dlg2={5C8A965E-F5D8-48A0-81C9-3B98CBFEFA11}-SdStartCopy-0
+Dlg3={5C8A965E-F5D8-48A0-81C9-3B98CBFEFA11}-SdFinishReboot-0
+[{5C8A965E-F5D8-48A0-81C9-3B98CBFEFA11}-LICENSE_DLG-0]
+Result=1
+[{5C8A965E-F5D8-48A0-81C9-3B98CBFEFA11}-SetupCustomSdOptionsButtons-0]
+Result=101
+[{5C8A965E-F5D8-48A0-81C9-3B98CBFEFA11}-SdStartCopy-0]
+Result=1
+[Application]
+Name=Sound Blaster X7 Extras
+Version=1.0
+Company=Creative Tech
+Lang=0009
+[{5C8A965E-F5D8-48A0-81C9-3B98CBFEFA11}-SdFinishReboot-0]
+Result=1
+BootOption=0
